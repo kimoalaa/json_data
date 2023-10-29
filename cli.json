@@ -1,0 +1,10 @@
+{
+    "log.innerHTML":"Server Started... +",
+    "log.innerHTML":"'<br/>' +",
+    "log.innerHTML":"client_port.value +",
+    "log.innerHTML":"'<br/>' +",
+    "log.innerHTML":" hostname.value +",
+    "log.innerHTML":"'<br/>' +", 
+    "log.innerHTML":"mes.value",
+    "log.innerHTML":"log_cli.textContent = datenow"  
+}
